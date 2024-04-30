@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+easyocr
+opencv-python
+matplotlib
+google-generativeai
+python-dotenv
+jupyter
+openpyxl
